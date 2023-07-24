@@ -1,7 +1,7 @@
 # SRS-FISH
 
 This repository is adapted from the codebase used to produce the results in the paper "SRS-FISH: A high-throughput platform linking microbiome
-metabolism to identity at the single-cell level"。
+metabolism to identity at the single-cell level".
 
 ## Requirements
 The code in this repo can be implemented with the following softwares
