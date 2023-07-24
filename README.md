@@ -4,7 +4,7 @@ This repository is adapted from the codebase used to produce the results in the 
 metabolism to identity at the single-cell level".
 
 ## Requirements
-The code in this repo can be implemented with the following softwares
+The code in this repo can be implemented with the following software
 * CellProfiler 4.2.1
 * Matlab 2021a
 
